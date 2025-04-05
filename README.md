@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrunalKankarej
+- 👋 Hi, I’m Mrunal!
 - 👀 I’m interested in Machine Learning, Data Science & Analytics and Automation
 - 🌱 I’m currently exploring various machine learning algorithms
 - 💞️ I’m looking to collaborate on data science and analytics projects
